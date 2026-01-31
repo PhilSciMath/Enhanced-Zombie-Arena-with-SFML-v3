@@ -22,7 +22,7 @@
 
 
 ### Gameplay Video
-[▶️ Watch on YouTube](to do)
+[▶️ Watch on YouTube](https://youtu.be/ihUtAfT_pFs)
 
 ### Project Goals
 - Practice C++ fundamentals in a real project.
