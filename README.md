@@ -16,13 +16,7 @@
  
 
 ### How it looks
-![Screenshot](screenshots/game.png)
-![Screenshot](screenshots/start_screen.png)
-![Screenshot](screenshots/upgrade_screen.png)
-
-
-### Gameplay Video
-[▶️ Watch on YouTube](https://youtu.be/ihUtAfT_pFs)
+![Zombie Arena Game](images/zombie.gif)
 
 ### Project Goals
 - Practice C++ fundamentals in a real project.
